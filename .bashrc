@@ -21,4 +21,3 @@ set -o vi
 
 complete -C /usr/bin/terraform terraform
 alias dotfiles=/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME
-alias dotfiles=/usr/bin/git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME
